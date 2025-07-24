@@ -1,2 +1,1 @@
-# Used_Hyundai_Cars_in_India_Prediction_Model
-Prediction of used Hyundai cars in India. A Linear regression model that uses various features of a car  such as Name, Mileage, Fuel type, transmission, Location, Owner-type, year and kIlometers_driven
+Prediction of used Hyundai cars in India. A Linear regression model that uses various features of a car such as Name, Mileage, Fuel type, transmission, Location, Owner-type, year and kIlometers_driven to predict the prices of used Hyundai Cars in India.
