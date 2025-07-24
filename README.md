@@ -42,4 +42,4 @@ We chose Linear Regression as a baseline model due to its simplicity, interpreta
 We make use of an interactive dashboard, making it easy for users to get the predicted price for sahyundai car based on several features like Car Name, Year, Location, Milieage, Fuel_Type, Transmission, Kilometers_Driven.
 
 ## Conclusion
-The Used Hyundai Cars Price Prediction Model was an intresting project, worked alongside with other great data scientists ! I learnt team work, good research skills, communication and the positive effect from having opinions from other data scientists/ analysts.
+The Used Hyundai Cars Price Prediction Model was an intresting project, worked alongside with other great data scientists ! I learnt team work, good research skills, communication and the positive effect from having opinions from other data scientists.
